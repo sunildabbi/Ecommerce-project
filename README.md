@@ -60,6 +60,7 @@ Edit
 git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
 
 ### 2. Navigate to the Project Folder
+```bash 
 cd ecommerce-project
 
 npm install
